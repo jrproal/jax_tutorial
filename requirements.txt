@@ -1,0 +1,17 @@
+# Core JAX packages (already installed in jax_tutor environment)
+jax>=0.7.0
+jaxlib>=0.7.0
+
+# Scientific computing (already installed)
+numpy>=2.0.0
+scipy>=1.17.0
+matplotlib>=3.10.0
+
+# JAX ecosystem for advanced examples
+# optax>=0.2.0          # Gradient-based optimization
+# numpyro>=0.15.0       # Probabilistic programming and MCMC
+# diffrax>=0.6.0        # Differential equation solvers
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
